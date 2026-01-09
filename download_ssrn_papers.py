@@ -19,6 +19,19 @@ FAILED_LOG_FILE = "failed_downloads.json"  # 失败记录文件
 DELAY_BETWEEN_REQUESTS = 1  # 请求之间的延迟（秒），避免请求过快
 MAX_RETRIES = 3  # 最大重试次数
 
+# 代理配置（如果需要使用 VPN/代理，取消注释并填写）
+# 格式示例：
+# PROXIES = {
+#     'http': 'http://127.0.0.1:7890',  # HTTP 代理地址
+#     'https': 'http://127.0.0.1:7890',  # HTTPS 代理地址
+# }
+# 或者使用 SOCKS5 代理：
+# PROXIES = {
+#     'http': 'socks5://127.0.0.1:1080',
+#     'https': 'socks5://127.0.0.1:1080',
+# }
+PROXIES = None  # 不使用代理时设为 None
+
 def extract_abstract_id(url):
     """从 SSRN URL 中提取 abstract_id"""
     match = re.search(r'abstract_id=(\d+)', url)
@@ -45,14 +58,14 @@ def download_pdf(url, output_path, abstract_id):
     last_error = None
     for attempt in range(MAX_RETRIES):
         try:
-            response = requests.get(url, headers=headers, stream=True, timeout=30)
+            response = requests.get(url, headers=headers, stream=True, timeout=30, proxies=PROXIES)
             response.raise_for_status()
             
             # 检查是否是 PDF 文件
             content_type = response.headers.get('Content-Type', '')
             if 'pdf' not in content_type.lower() and not url.endswith('.pdf'):
                 # 如果不是 PDF，尝试从页面中提取下载链接
-                print(f"  ⚠️  直接链接不是 PDF，尝试解析页面...")
+                print(f"  [WARNING] 直接链接不是 PDF，尝试解析页面...")
                 return download_from_page(abstract_id, output_path)
             
             # 保存文件
@@ -62,21 +75,21 @@ def download_pdf(url, output_path, abstract_id):
             
             file_size = os.path.getsize(output_path)
             if file_size > 0:
-                print(f"  ✅ 下载成功 ({file_size / 1024:.1f} KB)")
+                print(f"  [SUCCESS] 下载成功 ({file_size / 1024:.1f} KB)")
                 return (True, None)
             else:
                 error_msg = "文件大小为 0"
-                print(f"  ❌ {error_msg}")
+                print(f"  [ERROR] {error_msg}")
                 return (False, error_msg)
                 
         except requests.exceptions.RequestException as e:
             last_error = str(e)
-            print(f"  ⚠️  尝试 {attempt + 1}/{MAX_RETRIES} 失败: {e}")
+            print(f"  [WARNING] 尝试 {attempt + 1}/{MAX_RETRIES} 失败: {e}")
             if attempt < MAX_RETRIES - 1:
                 time.sleep(2)
             else:
                 # 最后一次尝试，从页面解析
-                print(f"  🔄 尝试从页面解析下载链接...")
+                print(f"  [RETRY] 尝试从页面解析下载链接...")
                 result = download_from_page(abstract_id, output_path)
                 if not result[0]:
                     return (False, f"直接下载失败: {last_error}; 页面解析也失败: {result[1]}")
@@ -93,7 +106,7 @@ def download_from_page(abstract_id, output_path):
     }
     
     try:
-        response = requests.get(page_url, headers=headers, timeout=30)
+        response = requests.get(page_url, headers=headers, timeout=30, proxies=PROXIES)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -133,7 +146,7 @@ def download_from_page(abstract_id, output_path):
                 'Referer': page_url
             }
             
-            response = requests.get(download_url, headers=pdf_headers, stream=True, timeout=30)
+            response = requests.get(download_url, headers=pdf_headers, stream=True, timeout=30, proxies=PROXIES)
             response.raise_for_status()
             
             with open(output_path, 'wb') as f:
@@ -142,11 +155,11 @@ def download_from_page(abstract_id, output_path):
             
             file_size = os.path.getsize(output_path)
             if file_size > 0:
-                print(f"  ✅ 从页面下载成功 ({file_size / 1024:.1f} KB)")
+                print(f"  [SUCCESS] 从页面下载成功 ({file_size / 1024:.1f} KB)")
                 return (True, None)
             else:
                 error_msg = "从页面下载的文件大小为 0"
-                print(f"  ❌ {error_msg}")
+                print(f"  [ERROR] {error_msg}")
                 return (False, error_msg)
         else:
             error_msg = "无法在页面中找到下载链接"
@@ -174,22 +187,28 @@ def sanitize_filename(filename):
     return filename
 
 def main():
+    # 检查代理配置
+    if PROXIES:
+        print(f"[PROXY] 使用代理: {PROXIES.get('https', PROXIES.get('http', 'N/A'))}")
+    else:
+        print("[INFO] 未配置代理（如果在中国无法访问，请在脚本中配置 PROXIES）")
+    
     # 读取 JSON 文件
     json_path = Path("ruotong.json")
     if not json_path.exists():
-        print(f"❌ 错误: 找不到文件 {json_path}")
+        print(f"[ERROR] 找不到文件 {json_path}")
         return
     
-    print(f"📖 读取 {json_path}...")
+    print(f"[INFO] 读取 {json_path}...")
     with open(json_path, 'r', encoding='utf-8') as f:
         urls = json.load(f)
     
-    print(f"📋 找到 {len(urls)} 个 URL")
+    print(f"[INFO] 找到 {len(urls)} 个 URL")
     
     # 创建输出目录
     output_dir = Path(OUTPUT_DIR)
     output_dir.mkdir(exist_ok=True)
-    print(f"📁 输出目录: {output_dir.absolute()}\n")
+    print(f"[INFO] 输出目录: {output_dir.absolute()}\n")
     
     # 统计信息
     success_count = 0
@@ -202,7 +221,7 @@ def main():
         abstract_id = extract_abstract_id(url)
         if not abstract_id:
             error_msg = "无法从 URL 提取 abstract_id"
-            print(f"[{i}/{len(urls)}] ❌ {error_msg}: {url}")
+            print(f"[{i}/{len(urls)}] [ERROR] {error_msg}: {url}")
             fail_count += 1
             failed_downloads.append({
                 'url': url,
@@ -215,11 +234,11 @@ def main():
         # 检查文件是否已存在
         output_path = output_dir / f"{abstract_id}.pdf"
         if output_path.exists():
-            print(f"[{i}/{len(urls)}] ⏭️  跳过 {abstract_id} (文件已存在)")
+            print(f"[{i}/{len(urls)}] [SKIP] 跳过 {abstract_id} (文件已存在)")
             skip_count += 1
             continue
         
-        print(f"[{i}/{len(urls)}] 📥 下载 {abstract_id}...")
+        print(f"[{i}/{len(urls)}] [DOWNLOAD] 下载 {abstract_id}...")
         
         # 尝试直接下载
         download_url = get_download_url(abstract_id)
@@ -249,17 +268,17 @@ def main():
         log_path = Path(FAILED_LOG_FILE)
         with open(log_path, 'w', encoding='utf-8') as f:
             json.dump(failed_downloads, f, indent=2, ensure_ascii=False)
-        print(f"\n📝 失败记录已保存到: {log_path.absolute()}")
+        print(f"\n[INFO] 失败记录已保存到: {log_path.absolute()}")
     
     # 打印统计信息
     print("\n" + "="*50)
-    print("📊 下载统计:")
-    print(f"  ✅ 成功: {success_count}")
-    print(f"  ⏭️  跳过: {skip_count}")
-    print(f"  ❌ 失败: {fail_count}")
-    print(f"  📁 输出目录: {output_dir.absolute()}")
+    print("[STATISTICS] 下载统计:")
+    print(f"  [SUCCESS] 成功: {success_count}")
+    print(f"  [SKIP] 跳过: {skip_count}")
+    print(f"  [FAILED] 失败: {fail_count}")
+    print(f"  [OUTPUT] 输出目录: {output_dir.absolute()}")
     if failed_downloads:
-        print(f"  📝 失败记录: {FAILED_LOG_FILE}")
+        print(f"  [LOG] 失败记录: {FAILED_LOG_FILE}")
         print(f"\n失败的 URL 列表:")
         for item in failed_downloads[:10]:  # 只显示前10个
             print(f"    - {item['url']} ({item['error']})")
