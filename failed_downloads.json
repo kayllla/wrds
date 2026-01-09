@@ -1,0 +1,1202 @@
+[
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795729",
+    "abstract_id": "4795729",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795729",
+    "timestamp": "2026-01-08 22:00:34"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695979",
+    "abstract_id": "4695979",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4695979",
+    "timestamp": "2026-01-08 22:02:10"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037306",
+    "abstract_id": "5037306",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037306",
+    "timestamp": "2026-01-08 22:04:50"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003071",
+    "abstract_id": "5003071",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003071",
+    "timestamp": "2026-01-08 22:09:09"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5016107",
+    "abstract_id": "5016107",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5016107; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5016107",
+    "timestamp": "2026-01-08 22:10:06"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616809",
+    "abstract_id": "4616809",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4616809",
+    "timestamp": "2026-01-08 22:11:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037322",
+    "abstract_id": "5037322",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037322; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037322",
+    "timestamp": "2026-01-08 22:11:48"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028821",
+    "abstract_id": "5028821",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028821",
+    "timestamp": "2026-01-08 22:12:28"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4751496",
+    "abstract_id": "4751496",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4751496; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4751496",
+    "timestamp": "2026-01-08 22:12:50"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845538",
+    "abstract_id": "4845538",
+    "error": "直接下载失败: 502 Server Error: Bad Gateway for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845538; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845538",
+    "timestamp": "2026-01-08 22:13:42"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774533",
+    "abstract_id": "4774533",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774533",
+    "timestamp": "2026-01-08 22:16:53"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5409807",
+    "abstract_id": "5409807",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5409807; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5409807",
+    "timestamp": "2026-01-08 22:17:19"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487701",
+    "abstract_id": "4487701",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4487701",
+    "timestamp": "2026-01-08 22:19:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127563",
+    "abstract_id": "5127563",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127563; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127563",
+    "timestamp": "2026-01-08 22:19:56"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795676",
+    "abstract_id": "4795676",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795676",
+    "timestamp": "2026-01-08 22:20:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028779",
+    "abstract_id": "5028779",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028779; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028779",
+    "timestamp": "2026-01-08 22:21:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003088",
+    "abstract_id": "5003088",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003088",
+    "timestamp": "2026-01-08 22:21:43"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556138",
+    "abstract_id": "5556138",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556138; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556138",
+    "timestamp": "2026-01-08 22:22:25"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649566",
+    "abstract_id": "4649566",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649566",
+    "timestamp": "2026-01-08 22:22:53"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484129",
+    "abstract_id": "5484129",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5484129",
+    "timestamp": "2026-01-08 22:24:46"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765920",
+    "abstract_id": "4765920",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765920; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765920",
+    "timestamp": "2026-01-08 22:25:02"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034271",
+    "abstract_id": "5034271",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034271",
+    "timestamp": "2026-01-08 22:26:18"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003036",
+    "abstract_id": "5003036",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003036",
+    "timestamp": "2026-01-08 22:31:13"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4961131",
+    "abstract_id": "4961131",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4961131",
+    "timestamp": "2026-01-08 22:33:10"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003104",
+    "abstract_id": "5003104",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003104",
+    "timestamp": "2026-01-08 22:35:06"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268533",
+    "abstract_id": "5268533",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268533; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268533",
+    "timestamp": "2026-01-08 22:35:51"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845636",
+    "abstract_id": "4845636",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845636",
+    "timestamp": "2026-01-08 22:38:12"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003241",
+    "abstract_id": "5003241",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003241",
+    "timestamp": "2026-01-08 22:39:51"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776171",
+    "abstract_id": "4776171",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776171; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776171",
+    "timestamp": "2026-01-08 22:40:26"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5335761",
+    "abstract_id": "5335761",
+    "error": "直接下载失败: HTTPSConnectionPool(host='papers.ssrn.com', port=443): Read timed out. (read timeout=30); 页面解析也失败: 页面请求失败: HTTPSConnectionPool(host='papers.ssrn.com', port=443): Read timed out. (read timeout=30)",
+    "timestamp": "2026-01-08 22:44:41"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767536",
+    "abstract_id": "4767536",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767536",
+    "timestamp": "2026-01-08 22:51:41"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4749890",
+    "abstract_id": "4749890",
+    "error": "页面请求失败: 502 Server Error: Bad Gateway for url: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4749890_code2063796.pdf?abstractid=4749890&mirid=1",
+    "timestamp": "2026-01-08 22:56:00"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556145",
+    "abstract_id": "5556145",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556145",
+    "timestamp": "2026-01-08 22:57:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277982",
+    "abstract_id": "5277982",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277982",
+    "timestamp": "2026-01-08 22:59:43"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4504944",
+    "abstract_id": "4504944",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4504944; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4504944",
+    "timestamp": "2026-01-08 23:00:17"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164406",
+    "abstract_id": "5164406",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5164406",
+    "timestamp": "2026-01-08 23:01:18"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5023922",
+    "abstract_id": "5023922",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5023922",
+    "timestamp": "2026-01-08 23:03:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003069",
+    "abstract_id": "5003069",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003069",
+    "timestamp": "2026-01-08 23:05:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475575",
+    "abstract_id": "4475575",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4475575",
+    "timestamp": "2026-01-08 23:05:45"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4821977",
+    "abstract_id": "4821977",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4821977",
+    "timestamp": "2026-01-08 23:06:54"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924991",
+    "abstract_id": "4924991",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924991",
+    "timestamp": "2026-01-08 23:08:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4495624",
+    "abstract_id": "4495624",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4495624; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4495624",
+    "timestamp": "2026-01-08 23:11:44"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003222",
+    "abstract_id": "5003222",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003222",
+    "timestamp": "2026-01-08 23:12:55"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767452",
+    "abstract_id": "4767452",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767452",
+    "timestamp": "2026-01-08 23:14:45"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4611130",
+    "abstract_id": "4611130",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4611130; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4611130",
+    "timestamp": "2026-01-08 23:15:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003116",
+    "abstract_id": "5003116",
+    "error": "直接下载失败: 502 Server Error: Bad Gateway for url: https://papers.ssrn.com/sol3/Delivery.cfm/5003116.pdf?abstractid=5003116&mirid=1; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003116",
+    "timestamp": "2026-01-08 23:15:43"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404317",
+    "abstract_id": "4404317",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404317",
+    "timestamp": "2026-01-08 23:16:23"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4766007",
+    "abstract_id": "4766007",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4766007; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4766007",
+    "timestamp": "2026-01-08 23:17:21"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765959",
+    "abstract_id": "4765959",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765959",
+    "timestamp": "2026-01-08 23:20:04"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4619057",
+    "abstract_id": "4619057",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4619057",
+    "timestamp": "2026-01-08 23:21:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787540",
+    "abstract_id": "4787540",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787540; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787540",
+    "timestamp": "2026-01-08 23:22:23"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787549",
+    "abstract_id": "4787549",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787549",
+    "timestamp": "2026-01-08 23:22:46"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787590",
+    "abstract_id": "4787590",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787590; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787590",
+    "timestamp": "2026-01-08 23:23:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4773776",
+    "abstract_id": "4773776",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4773776",
+    "timestamp": "2026-01-08 23:24:01"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4577336",
+    "abstract_id": "4577336",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4577336; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4577336",
+    "timestamp": "2026-01-08 23:24:26"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037194",
+    "abstract_id": "5037194",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037194",
+    "timestamp": "2026-01-08 23:25:31"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003030",
+    "abstract_id": "5003030",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003030; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003030",
+    "timestamp": "2026-01-08 23:26:25"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028864",
+    "abstract_id": "5028864",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028864",
+    "timestamp": "2026-01-08 23:27:19"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037201",
+    "abstract_id": "5037201",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037201",
+    "timestamp": "2026-01-08 23:28:26"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571299",
+    "abstract_id": "4571299",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571299; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4571299",
+    "timestamp": "2026-01-08 23:29:07"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795707",
+    "abstract_id": "4795707",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795707",
+    "timestamp": "2026-01-08 23:29:48"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034242",
+    "abstract_id": "5034242",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034242",
+    "timestamp": "2026-01-08 23:30:58"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787578",
+    "abstract_id": "4787578",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787578; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787578",
+    "timestamp": "2026-01-08 23:31:22"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277980",
+    "abstract_id": "5277980",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5277980",
+    "timestamp": "2026-01-08 23:32:41"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741651",
+    "abstract_id": "4741651",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741651; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741651",
+    "timestamp": "2026-01-09 00:18:11"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153587",
+    "abstract_id": "5153587",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5153587",
+    "timestamp": "2026-01-09 00:18:21"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799150",
+    "abstract_id": "4799150",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799150; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799150",
+    "timestamp": "2026-01-09 00:18:56"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003002",
+    "abstract_id": "5003002",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003002",
+    "timestamp": "2026-01-09 00:19:17"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003313",
+    "abstract_id": "5003313",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003313; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003313",
+    "timestamp": "2026-01-09 00:20:07"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5344420",
+    "abstract_id": "5344420",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5344420",
+    "timestamp": "2026-01-09 00:20:20"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795818",
+    "abstract_id": "4795818",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795818; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795818",
+    "timestamp": "2026-01-09 00:20:30"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028750",
+    "abstract_id": "5028750",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028750; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028750",
+    "timestamp": "2026-01-09 00:20:39"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4935168",
+    "abstract_id": "4935168",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4935168; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4935168",
+    "timestamp": "2026-01-09 00:20:55"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795817",
+    "abstract_id": "4795817",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795817",
+    "timestamp": "2026-01-09 00:21:40"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4970586",
+    "abstract_id": "4970586",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4970586; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4970586",
+    "timestamp": "2026-01-09 00:21:49"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4685572",
+    "abstract_id": "4685572",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4685572; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4685572",
+    "timestamp": "2026-01-09 00:22:11"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5022565",
+    "abstract_id": "5022565",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5022565; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5022565",
+    "timestamp": "2026-01-09 00:22:21"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5075912",
+    "abstract_id": "5075912",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5075912",
+    "timestamp": "2026-01-09 00:22:44"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795698",
+    "abstract_id": "4795698",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795698",
+    "timestamp": "2026-01-09 00:23:46"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767479",
+    "abstract_id": "4767479",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767479; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767479",
+    "timestamp": "2026-01-09 00:23:55"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4542667",
+    "abstract_id": "4542667",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4542667; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4542667",
+    "timestamp": "2026-01-09 00:24:04"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4625061",
+    "abstract_id": "4625061",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4625061; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4625061",
+    "timestamp": "2026-01-09 00:24:42"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028796",
+    "abstract_id": "5028796",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028796",
+    "timestamp": "2026-01-09 00:25:03"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472906",
+    "abstract_id": "4472906",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4472906",
+    "timestamp": "2026-01-09 00:25:07"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003103",
+    "abstract_id": "5003103",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003103; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003103",
+    "timestamp": "2026-01-09 00:25:17"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037230",
+    "abstract_id": "5037230",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037230; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037230",
+    "timestamp": "2026-01-09 00:25:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5213202",
+    "abstract_id": "5213202",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5213202; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5213202",
+    "timestamp": "2026-01-09 00:25:49"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4546045",
+    "abstract_id": "4546045",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4546045",
+    "timestamp": "2026-01-09 00:26:15"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028908",
+    "abstract_id": "5028908",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028908; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028908",
+    "timestamp": "2026-01-09 00:26:24"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431146",
+    "abstract_id": "4431146",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431146; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431146",
+    "timestamp": "2026-01-09 00:26:56"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845592",
+    "abstract_id": "4845592",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845592",
+    "timestamp": "2026-01-09 00:27:19"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776185",
+    "abstract_id": "4776185",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776185; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776185",
+    "timestamp": "2026-01-09 00:27:35"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5225857",
+    "abstract_id": "5225857",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5225857",
+    "timestamp": "2026-01-09 00:27:39"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003062",
+    "abstract_id": "5003062",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003062; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003062",
+    "timestamp": "2026-01-09 00:27:48"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4536821",
+    "abstract_id": "4536821",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4536821; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4536821",
+    "timestamp": "2026-01-09 00:28:15"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028706",
+    "abstract_id": "5028706",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028706",
+    "timestamp": "2026-01-09 00:28:22"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787258",
+    "abstract_id": "4787258",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787258; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787258",
+    "timestamp": "2026-01-09 00:28:45"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741692",
+    "abstract_id": "4741692",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741692; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4741692",
+    "timestamp": "2026-01-09 00:28:56"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765109",
+    "abstract_id": "4765109",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765109; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765109",
+    "timestamp": "2026-01-09 00:29:16"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028915",
+    "abstract_id": "5028915",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028915",
+    "timestamp": "2026-01-09 00:29:30"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003131",
+    "abstract_id": "5003131",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003131; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003131",
+    "timestamp": "2026-01-09 00:29:56"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5142881",
+    "abstract_id": "5142881",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5142881; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5142881",
+    "timestamp": "2026-01-09 00:30:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4736763",
+    "abstract_id": "4736763",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4736763",
+    "timestamp": "2026-01-09 00:30:18"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767511",
+    "abstract_id": "4767511",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767511",
+    "timestamp": "2026-01-09 00:31:46"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4549994",
+    "abstract_id": "4549994",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4549994",
+    "timestamp": "2026-01-09 00:32:22"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028678",
+    "abstract_id": "5028678",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028678; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028678",
+    "timestamp": "2026-01-09 00:32:40"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064657",
+    "abstract_id": "5064657",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5064657",
+    "timestamp": "2026-01-09 00:32:50"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404181",
+    "abstract_id": "4404181",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404181; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404181",
+    "timestamp": "2026-01-09 00:32:59"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659625",
+    "abstract_id": "4659625",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659625; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659625",
+    "timestamp": "2026-01-09 00:33:08"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028782",
+    "abstract_id": "5028782",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028782; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028782",
+    "timestamp": "2026-01-09 00:33:17"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444542",
+    "abstract_id": "4444542",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444542",
+    "timestamp": "2026-01-09 00:33:39"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216650",
+    "abstract_id": "5216650",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216650",
+    "timestamp": "2026-01-09 00:34:22"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787630",
+    "abstract_id": "4787630",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787630; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787630",
+    "timestamp": "2026-01-09 00:34:34"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003106",
+    "abstract_id": "5003106",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003106; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003106",
+    "timestamp": "2026-01-09 00:34:43"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787544",
+    "abstract_id": "4787544",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787544; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787544",
+    "timestamp": "2026-01-09 00:35:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795687",
+    "abstract_id": "4795687",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795687",
+    "timestamp": "2026-01-09 00:35:42"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247547",
+    "abstract_id": "5247547",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247547; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247547",
+    "timestamp": "2026-01-09 00:35:52"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5615350",
+    "abstract_id": "5615350",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5615350; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5615350",
+    "timestamp": "2026-01-09 00:36:13"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037164",
+    "abstract_id": "5037164",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037164",
+    "timestamp": "2026-01-09 00:37:17"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458479",
+    "abstract_id": "4458479",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458479; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4458479",
+    "timestamp": "2026-01-09 00:37:41"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5457355",
+    "abstract_id": "5457355",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5457355; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5457355",
+    "timestamp": "2026-01-09 00:37:59"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5002977",
+    "abstract_id": "5002977",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5002977; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5002977",
+    "timestamp": "2026-01-09 00:38:11"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964433",
+    "abstract_id": "4964433",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4964433",
+    "timestamp": "2026-01-09 00:38:44"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556160",
+    "abstract_id": "5556160",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556160; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556160",
+    "timestamp": "2026-01-09 00:39:06"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893791",
+    "abstract_id": "4893791",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4893791",
+    "timestamp": "2026-01-09 00:39:49"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795823",
+    "abstract_id": "4795823",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795823; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795823",
+    "timestamp": "2026-01-09 00:40:24"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037286",
+    "abstract_id": "5037286",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037286; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037286",
+    "timestamp": "2026-01-09 00:40:42"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5002996",
+    "abstract_id": "5002996",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5002996",
+    "timestamp": "2026-01-09 00:41:12"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767490",
+    "abstract_id": "4767490",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767490; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767490",
+    "timestamp": "2026-01-09 00:41:24"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795765",
+    "abstract_id": "4795765",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795765; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795765",
+    "timestamp": "2026-01-09 00:41:49"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028648",
+    "abstract_id": "5028648",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028648; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028648",
+    "timestamp": "2026-01-09 00:41:58"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845493",
+    "abstract_id": "4845493",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845493; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845493",
+    "timestamp": "2026-01-09 00:42:08"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5021900",
+    "abstract_id": "5021900",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5021900",
+    "timestamp": "2026-01-09 00:42:15"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395020",
+    "abstract_id": "5395020",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395020; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395020",
+    "timestamp": "2026-01-09 00:42:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034206",
+    "abstract_id": "5034206",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034206; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034206",
+    "timestamp": "2026-01-09 00:43:07"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5625110",
+    "abstract_id": "5625110",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5625110; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5625110",
+    "timestamp": "2026-01-09 00:43:52"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034255",
+    "abstract_id": "5034255",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034255; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034255",
+    "timestamp": "2026-01-09 00:44:09"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003128",
+    "abstract_id": "5003128",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003128; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003128",
+    "timestamp": "2026-01-09 00:44:42"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4405851",
+    "abstract_id": "4405851",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4405851",
+    "timestamp": "2026-01-09 00:44:52"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233512",
+    "abstract_id": "5233512",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233512; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233512",
+    "timestamp": "2026-01-09 00:45:05"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034278",
+    "abstract_id": "5034278",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034278; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034278",
+    "timestamp": "2026-01-09 00:45:15"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003218",
+    "abstract_id": "5003218",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003218; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003218",
+    "timestamp": "2026-01-09 00:45:30"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003025",
+    "abstract_id": "5003025",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003025; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003025",
+    "timestamp": "2026-01-09 00:45:49"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4803655",
+    "abstract_id": "4803655",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4803655",
+    "timestamp": "2026-01-09 00:46:00"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795819",
+    "abstract_id": "4795819",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795819; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795819",
+    "timestamp": "2026-01-09 00:46:09"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439093",
+    "abstract_id": "4439093",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439093; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4439093",
+    "timestamp": "2026-01-09 00:46:22"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795744",
+    "abstract_id": "4795744",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795744; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795744",
+    "timestamp": "2026-01-09 00:46:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003293",
+    "abstract_id": "5003293",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003293",
+    "timestamp": "2026-01-09 00:47:16"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431160",
+    "abstract_id": "4431160",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431160; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4431160",
+    "timestamp": "2026-01-09 00:47:26"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003007",
+    "abstract_id": "5003007",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003007; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003007",
+    "timestamp": "2026-01-09 00:47:53"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728121",
+    "abstract_id": "4728121",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4728121",
+    "timestamp": "2026-01-09 00:48:10"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4447603",
+    "abstract_id": "4447603",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4447603",
+    "timestamp": "2026-01-09 00:48:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774641",
+    "abstract_id": "4774641",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774641",
+    "timestamp": "2026-01-09 00:48:28"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787599",
+    "abstract_id": "4787599",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787599; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787599",
+    "timestamp": "2026-01-09 00:48:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003124",
+    "abstract_id": "5003124",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003124; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003124",
+    "timestamp": "2026-01-09 00:48:50"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5773865",
+    "abstract_id": "5773865",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5773865; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5773865",
+    "timestamp": "2026-01-09 00:49:16"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845531",
+    "abstract_id": "4845531",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4845531",
+    "timestamp": "2026-01-09 00:49:32"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4440281",
+    "abstract_id": "4440281",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4440281; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4440281",
+    "timestamp": "2026-01-09 00:49:52"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765955",
+    "abstract_id": "4765955",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765955; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4765955",
+    "timestamp": "2026-01-09 00:50:08"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037167",
+    "abstract_id": "5037167",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037167; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037167",
+    "timestamp": "2026-01-09 00:50:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028807",
+    "abstract_id": "5028807",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028807",
+    "timestamp": "2026-01-09 00:50:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556153",
+    "abstract_id": "5556153",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556153; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556153",
+    "timestamp": "2026-01-09 00:50:46"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795721",
+    "abstract_id": "4795721",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795721; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795721",
+    "timestamp": "2026-01-09 00:50:56"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4761523",
+    "abstract_id": "4761523",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4761523; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4761523",
+    "timestamp": "2026-01-09 00:51:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233530",
+    "abstract_id": "5233530",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233530; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5233530",
+    "timestamp": "2026-01-09 00:51:24"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028658",
+    "abstract_id": "5028658",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028658",
+    "timestamp": "2026-01-09 00:51:39"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037189",
+    "abstract_id": "5037189",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037189; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037189",
+    "timestamp": "2026-01-09 00:51:51"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980283",
+    "abstract_id": "4980283",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4980283",
+    "timestamp": "2026-01-09 00:52:50"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5021142",
+    "abstract_id": "5021142",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5021142; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5021142",
+    "timestamp": "2026-01-09 00:53:06"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091289",
+    "abstract_id": "5091289",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091289; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091289",
+    "timestamp": "2026-01-09 00:53:18"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003184",
+    "abstract_id": "5003184",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003184; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003184",
+    "timestamp": "2026-01-09 00:53:31"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034251",
+    "abstract_id": "5034251",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034251",
+    "timestamp": "2026-01-09 00:54:11"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037212",
+    "abstract_id": "5037212",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037212; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037212",
+    "timestamp": "2026-01-09 00:54:28"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5310959",
+    "abstract_id": "5310959",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5310959; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5310959",
+    "timestamp": "2026-01-09 00:54:37"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556176",
+    "abstract_id": "5556176",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556176; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5556176",
+    "timestamp": "2026-01-09 00:55:05"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4680668",
+    "abstract_id": "4680668",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4680668",
+    "timestamp": "2026-01-09 00:55:25"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5041173",
+    "abstract_id": "5041173",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5041173; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5041173",
+    "timestamp": "2026-01-09 00:56:16"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003010",
+    "abstract_id": "5003010",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003010",
+    "timestamp": "2026-01-09 00:56:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003302",
+    "abstract_id": "5003302",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003302; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5003302",
+    "timestamp": "2026-01-09 00:56:42"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4905413",
+    "abstract_id": "4905413",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4905413; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4905413",
+    "timestamp": "2026-01-09 00:57:23"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5289721",
+    "abstract_id": "5289721",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5289721",
+    "timestamp": "2026-01-09 00:57:53"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795714",
+    "abstract_id": "4795714",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795714; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795714",
+    "timestamp": "2026-01-09 00:58:19"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417674",
+    "abstract_id": "5417674",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417674; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417674",
+    "timestamp": "2026-01-09 00:58:40"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028660",
+    "abstract_id": "5028660",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028660",
+    "timestamp": "2026-01-09 00:59:07"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092767",
+    "abstract_id": "5092767",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092767; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5092767",
+    "timestamp": "2026-01-09 00:59:21"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404173",
+    "abstract_id": "4404173",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404173; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404173",
+    "timestamp": "2026-01-09 00:59:32"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5161241",
+    "abstract_id": "5161241",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5161241; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5161241",
+    "timestamp": "2026-01-09 00:59:59"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429692",
+    "abstract_id": "4429692",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4429692",
+    "timestamp": "2026-01-09 01:00:23"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034273",
+    "abstract_id": "5034273",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034273; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034273",
+    "timestamp": "2026-01-09 01:00:55"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4746402",
+    "abstract_id": "4746402",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4746402",
+    "timestamp": "2026-01-09 01:00:59"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795697",
+    "abstract_id": "4795697",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795697; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4795697",
+    "timestamp": "2026-01-09 01:01:08"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767537",
+    "abstract_id": "4767537",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767537",
+    "timestamp": "2026-01-09 01:01:38"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5200414",
+    "abstract_id": "5200414",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5200414; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5200414",
+    "timestamp": "2026-01-09 01:02:32"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5213810",
+    "abstract_id": "5213810",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5213810",
+    "timestamp": "2026-01-09 01:02:39"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028866",
+    "abstract_id": "5028866",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028866; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028866",
+    "timestamp": "2026-01-09 01:02:54"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5130685",
+    "abstract_id": "5130685",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5130685",
+    "timestamp": "2026-01-09 01:03:14"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5243203",
+    "abstract_id": "5243203",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5243203",
+    "timestamp": "2026-01-09 01:04:15"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028787",
+    "abstract_id": "5028787",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028787; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5028787",
+    "timestamp": "2026-01-09 01:04:24"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000233",
+    "abstract_id": "5000233",
+    "error": "页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5000233",
+    "timestamp": "2026-01-09 01:04:27"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767456",
+    "abstract_id": "4767456",
+    "error": "直接下载失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767456; 页面解析也失败: 页面请求失败: 429 Client Error: Too Many Requests for url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4767456",
+    "timestamp": "2026-01-09 01:04:47"
+  }
+]
