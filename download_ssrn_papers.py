@@ -41,7 +41,7 @@ def extract_abstract_id(url):
 
 def get_download_url(abstract_id):
     """构造 PDF 下载 URL"""
-    # 根据图片中的 HTML 结构，下载链接格式为：
+    # 下载链接格式为：
     # Delivery.cfm/{abstract_id}.pdf?abstractid={abstract_id}&mirid=1
     base_url = "https://papers.ssrn.com/sol3"
     download_url = f"{base_url}/Delivery.cfm/{abstract_id}.pdf?abstractid={abstract_id}&mirid=1"
@@ -111,7 +111,7 @@ def download_from_page(abstract_id, output_path):
         
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # 查找下载链接 - 根据图片中的 HTML 结构
+        # 查找下载链接 
         # <a href="Delivery.cfm/4517697.pdf?abstractid=4517697&amp;mirid=1" class="button-link primary">
         download_link = None
         
