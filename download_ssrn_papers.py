@@ -163,16 +163,16 @@ def download_from_page(abstract_id, output_path):
                 return (False, error_msg)
         else:
             error_msg = "无法在页面中找到下载链接"
-            print(f"  ❌ {error_msg}")
+            print(f"  [ERROR] {error_msg}")
             return (False, error_msg)
             
     except requests.exceptions.RequestException as e:
         error_msg = f"页面请求失败: {str(e)}"
-        print(f"  ❌ {error_msg}")
+        print(f"  [ERROR] {error_msg}")
         return (False, error_msg)
     except Exception as e:
         error_msg = f"从页面下载失败: {str(e)}"
-        print(f"  ❌ {error_msg}")
+        print(f"  [ERROR] {error_msg}")
         return (False, error_msg)
 
 def sanitize_filename(filename):
